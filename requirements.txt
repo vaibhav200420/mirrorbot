@@ -41,4 +41,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dl=2023.10.13
+yt-dl==2023.10.13
